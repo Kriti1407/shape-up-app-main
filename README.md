@@ -75,11 +75,10 @@ Frontend: 3000
 Backend/API: 9000
 
 
-## Built With
+## 🛠 Technical Implementation
 
-This app build with below technologies
-
-[![Stack](https://skills.thijs.gg/icons?i=html,css,js,mongodb,express,react,nodejs)](https://github.com)
+- **Frontend:** `React.js` for user interface & device interaction  
+- **Backend:** `Express.js` for server communication & device state management  .com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
