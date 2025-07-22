@@ -11,6 +11,7 @@ A full-stack fitness tracking web application built with <strong>MongoDB, Expres
 ## 🧠 Overview
 
 **Shape-Up** is a user-friendly fitness tracking platform designed to assist users in achieving their wellness goals. It offers powerful tools like meal planning, workout tracking, and personalized goal setting—all in one place.
+<img width="1920" height="1379" alt="homepage21" src="https://github.com/user-attachments/assets/1d88126c-7d1c-4621-8a3d-59f1f6f3df6f" />
 
 ---
 
