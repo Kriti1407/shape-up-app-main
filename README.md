@@ -1,34 +1,46 @@
-<h1 align="center">
-Shape Up App
-</h1>
+<h1 align="center">💪 Shape Up App</h1>
+
 <p align="center">
-MongoDB, Expressjs, React/Redux, Nodejs
+A full-stack fitness tracking web application built with <strong>MongoDB, Express.js, React/Redux, and Node.js</strong>.
 </p>
 
-Shape-Up is an easy-to-use fitness tracking web application. Its main goal is to assist users in their wellness journey, providing tools and features to help them achieve their fitness goals.
+<p align="center"><i>Your journey to wellness starts here!</i></p>
 
-Your journey to wellness starts here!
+---
 
-# Team Members
-- Kriti Bakshi
+## 🧠 Overview
+
+**Shape-Up** is a user-friendly fitness tracking platform designed to assist users in achieving their wellness goals. It offers powerful tools like meal planning, workout tracking, and personalized goal setting—all in one place.
+
+---
+
+## 👥 Team Members
+
+- Kriti Bakshi  
 - Priti Bakshi
 
-## Prerequisites
+---
 
-- MonggoDB
-- Node JS
-- NPM
+## ⚙️ Prerequisites
 
-## Shape Up Features
+- ✅ [MongoDB](https://www.mongodb.com/)
+- ✅ [Node.js](https://nodejs.org/)
+- ✅ npm (Node Package Manager)
 
-- Personal Account.
-- Diet Profile.
-- Goal Settings.
-- Meal Planner.
-- Water Intake Log.
-- Workout Database.
-- Nutrition Checker.
-- BMR Calculator.
+---
+
+## ✨ Features
+
+- 👤 Personal Account  
+- 🥗 Diet Profile  
+- 🎯 Goal Settings  
+- 🗓️ Meal Planner  
+- 💧 Water Intake Log  
+- 🏋️ Workout Database  
+- 🍎 Nutrition Checker  
+- 🔥 BMR Calculator
+
+---
 
 ## Getting Started
 Clone the repo
