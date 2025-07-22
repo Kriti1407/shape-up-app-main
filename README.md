@@ -45,7 +45,7 @@ A full-stack fitness tracking web application built with <strong>MongoDB, Expres
 ## Getting Started
 Clone the repo
 shell
-git clone https://github.com/Shape-Up-NZ/shape-up-app
+git clone https://github.com/Kriti1407/shape-up-app-main/
 cd shape-up-app
 npm install
 
@@ -80,7 +80,6 @@ Backend/API: 9000
 - **Frontend:** `React.js` for user interface & device interaction  
 - **Backend:** `Express.js` for server communication & device state management  .com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Screenshots
 
